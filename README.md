@@ -2,7 +2,8 @@
 
 This project focuses on analyzing the sentiment of movie reviews. The goal is to determine whether a given review is positive or negative based on its text content. This can be useful for understanding general sentiment about a movie and for improving recommendation systems.
 
-# Dataset: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+# Dataset: 
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 # Overview
 
@@ -15,7 +16,7 @@ The project employs various NLP techniques and machine learning models, includin
 * Feature Extraction: TF-IDF Vectorizer.
 * Machine Learning Model: Naive Bayes Classifier.
 
-#Results
+# Results
 
 The performance of the Naive Bayes model with the best parameters ({'alpha': 1.0, 'fit_prior': False}) is as follows:
 
